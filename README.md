@@ -1,7 +1,7 @@
-# Demo
+# This a new Section
 
-This is a test for Git Training
+Local Dev to Emmanuel Branch 
 
-## Subheader
+## Local Dev
 
-Watch tutorial
+Open Index.html in Browser
